@@ -59,8 +59,3 @@ For Kubernetes deployment, create a Kubernetes YAML file and apply it:
 kubectl apply -f deployment.yaml
 ```
 
-## Video Demo
-(Insert link to demo video)
-
-## License
-MIT
